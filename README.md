@@ -21,3 +21,9 @@ My contributions to open-source apps 🔥
 **⚠️ Issue**: [thepracticaldev/dev.to/issues/5738](https://github.com/thepracticaldev/dev.to/issues/5738)
 
 **🏁PR**: [thepracticaldev/dev.to/pull/7096](https://github.com/thepracticaldev/dev.to/pull/7096)
+
+### Fix the alignment between the podcast name and image
+
+**⚠️ Issue**: [thepracticaldev/dev.to/issues/7752](https://github.com/thepracticaldev/dev.to/issues/7752)
+
+**🏁PR**: [thepracticaldev/dev.to/pull/7767](https://github.com/thepracticaldev/dev.to/pull/7767)
